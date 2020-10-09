@@ -1,0 +1,41 @@
+Das Pseudodentin (der Kürze halber sei der umgewandelte Dentinrest in der Schmelzkappe so genannt) liegt der Innenwand des Schmelzes an vielen Stellen noch dicht an, läßt sich allerdings
+ leicht ablösen.
+ Makroskopisch ist keine Ähnlichkeit mehr mit normalem Dentin vorhanden, während der Schmelz
+ mit seiner Transparenz und dem Oberflächenglanz ein fast unverändertes Aussehen besitzt.
+ Der innere Zusammenhalt und die Härte des Pseudodentins sind außerordentlich gering. Ein feiner Bohrer, welcher für die Abtrennung eines kleinen Stückes zur mikroskopischen Untersuchung
+ benutzt wurde, fand kaum mehr Widerstand als in Kreide.
+ Der geringe innere Zusammenhalt läßt auf Vernichtung der organischen Substanz in ihrer
+ ursprünglichen Form schließen und der starke Ausfall der Salzsäureprobe eine nachträgliche Erhöhung des Gehaltes an kohlensaurem Kalke vermuten. Letzteres ist allerdings keine notwendige Schluß- folgerung, denn es wäre wohl verständlich, daß die Salzsäureprobe auch bei unverändertem Gehalte des Dentins an Kalziumkarbonat eine stärkere Kohlensäureentwicklung zeigt als beim normalen Dentin, wenn die organische Substanz durch die Verwitterungsvorgänge vernichtet oder so verändert ist, daß die Kalksalze ihre frühere feste Bindung an dieselbe eingebüßt haben.
+ 
+ :
+  Dieck, Mikroskopische Untersuchung des Sonde-Zahnes.
+ 223
+ Das normale bei 120° getrocknete Dentin hat nach einer Analyse von Berzelius folgende Zusammensetzung
+ Organische Substanz 28,0 Phosphorsaurer Kalk mit Fluorcalcium 64,3 Kohlensaurer Kalk 5,3 Phosporsäure Magnesia 1,0 Natron mit etwas Kochsalz 1,4
+ Da es von Interesse war, trotz des geringen Quantums von Untersuchungsmaterial eine quantitative Analyse des metamorphosierten Dentins in der Schmelzkappe zu erhalten, so hat Herr Prof. Dr. Marckwald, Berlin, es freundlichst übernommen, eine mikroanalytische Untersuchung in seinem Laboratorium aus- führen zu lassen. Es war allerdings nur möglich, den Gehalt an Kalziumkarbönat und an organischer Substanz festzustellen.
+ Ich lasse den Originalbericht von Herrn Prof. Dr. Marckwald über die Untersuchung folgen:
+ »Nach den Mitteilungen des Herrn Dr. Carthaus hatte die qualitative Analyse der Masse ergeben daß diese im wesentlichen aus Kalziumphosphat und Kalziumkarbonat neben organischer Substanz be- stände. Es sollte nun der Gehalt an Karbonat mit Hilfe der Mikrowage festgestellt werden. Die im Nach- folgenden beschriebenen Versuche sind von meinem Assistenten, Herrn Dr. Keetman ausgeführt worden.
+ Es galt zunächst die Brauchbarkeit der Methode zur Bestimmung des Kalziumkarbonatgehalts an reinem Kalziumkarbonat (Doppelspat) zu prüfen. Zu dem Zweck wurde das Kalziumkarbonat geglüht und der Gewichtsverlust mittelst der Mikrowage bestimmt. Die Genauigkeit der Methode ergeben die folgenden Zahlen:
+ I. 3,61 mg Kalziumkarbonat verloren 1,64 mg C02 ; daraus würde sich berechnen, daß 3,72 mg Karbonat vorlagen.
+ II. 3,50 mg CaC03 verloren 1,57 mg C02 , woraus sich berechnen würde, daß 3,59 mg Karbonat vorlagen.
+ Die Methode giebt also auf ca. %% genau den Gehalt an Karbonat an.
+ Nun hatte die Methode aber zur Voraussetzung, daß sich beim Glühen nichts anderes als Kohlen- säure verflüchtige. Kalziumphosphat ist nicht flüchtig, wohl aber verbrennen die organischen Bestandteile. Um die Methode gleichwohl verwenden zu können, mußte versucht werden, den durch Glühen gebildeten Kalk wieder quantitativ in Karbonat zurückzuverwandeln und so durch die Gewichtszunahme seine Menge zu ermitteln. Das gelang, wie mit Kalziumkarbonat angestellte Vorversuche ergaben, durch Be- handeln des Glührückstandes mit Ammoniumkarbonat.
+ 3,61 mg CaC03 ergaben 1,97 mg CaO, welche bei der Regeneration 3,61 mg CaC03 zurücklieferten. Die Methode war also brauchbar.
+ Nunmehr wurde die Untersuchung des Dentins in Angriff genommen. Hierzu standen zwei
+ Proben zur Verfügung. Die eine bestand aus derben, kleinen Stückchen, die andere aus Pulver. Die Analysen zeigten innerhalb der Grenzen der Beobachtungsfehler Übereinstimmung. Die Resultate sind in der folgenden Tabelle enthalten:
+ I II III
+ Glühverlust
+ 0,127 ms 0,193» 0,372 »
+ Organische Substanz
+ 12,7 % 14,2» 11,0 »
+ Kalzium- karbonat
+ 7,5 % 9,5» 7,7 .
+ Gewicht der angewandten Substanz
+ 0,793 m| 1,05 » 2,58 »
+ Gewichts- zunahme durch Aromonkarbonat
+ 0,026 ms 0,044» .0,088 ,
+ Gefunden in Prozenten desDentins
+ 
+  224
+ Dieck.
+ Daraus ergiebt sich, daß das metamorphosierte Dentin rund %% Kalziumkarbonat und rund 13 % organische Substanz enthält. Ob der Rest von rund 79^ ausschließlich aus Kalziumphosphat besteht, läßt sich durch die mikroanalytische Untersuchung nicht entscheiden.«
