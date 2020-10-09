@@ -27,6 +27,7 @@ Langkah:
 - buka file selanjutnya, (misal terakhir halaman 23, maka lanjut ke file 24)
 - copy paste text di file tersebut ke google translate, pilih germany -> english
 - copy paste hasilnya, taruh di baris terakhir (tambah baris) di file [PITHECANTHROPUS- SCHICHTEN AUF JAVA - English Version.txt](result/PITHECANTHROPUS-%20SCHICHTEN%20AUF%20JAVA%20-%20English%20Version.txt)
+- jika sudah dirasa cukup, tambahkan line baru di atas sendiri di file CHANGELOG, dan tuliskan tanggal dan halaman terakhir yang sudah diterjemahkan.
 
 CHANGELOG - di file [CHANGELOG.txt](CHANGELOG.txt)
 Merekam progres terjemahan dokumen
