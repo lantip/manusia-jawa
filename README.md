@@ -5,8 +5,13 @@ Dokumen berbahasa selain Inggris, dipecah menjadi file kecil maksimal 5000 karak
 
 # dasar pemikiran
 
-berawal dari twit ini
+Berawal dari twit ini
+
 ![siapa penemu fosil manusia trinil?](img/convo.png?raw=true "Title")
+
+# tujuan
+
+Mencoba mencari mereka-mereka (penduduk setempat/warga negara Indonesia) yang terlibat dalam penemuan fosil di Indonesia.
 
 # langkah kontribusi
 
