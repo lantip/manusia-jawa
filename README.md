@@ -8,7 +8,7 @@ Dokumen berbahasa selain Inggris, dipecah menjadi file kecil maksimal 5000 karak
 berawal dari twit ini
 ![siapa penemu fosil manusia trinil?](img/convo.png?raw=true "Title")
 
-#langkah kontribusi
+# langkah kontribusi
 
 Untuk saat ini 09 Oktober 2020, baru satu file yang diproses.
 - File asli `Bahasa Jerman` ada di [sini](source/PITHECANTHROPUS-%20SCHICHTEN%20AUF%20JAVA.pdf)
