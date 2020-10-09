@@ -1,4 +1,5 @@
 CHANGELOG
 
 09-10-2020
-translate terakhir - halaman 23
+- halaman 23 
+  lokasi: source/PITHECANTHROPUS- SCHICHTEN AUF JAVA/split_jerman_023.txt
